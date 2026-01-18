@@ -1,0 +1,22 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.env/
+
+# Data & models
+*.pkl
+*.csv
+
+# Notebooks
+*.ipynb
+.ipynb_checkpoints/
+
+# Experiments
+experiment/
+
+# OS
+.DS_Store
+Thumbs.db
